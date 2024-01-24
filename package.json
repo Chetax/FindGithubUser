@@ -1,6 +1,6 @@
 {
   "homepage": "https://Chetax.github.io/FindGithubUser/",
-  "name": "FindGithubUser",
+  "name": "findgithubuser",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
